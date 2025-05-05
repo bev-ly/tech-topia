@@ -15,9 +15,9 @@ Dark/light theme mode toggle with consistent styling
 Responsive design optimized for desktop viewing
 Order management system (view status, cancel orders)
 
-This project uses several modern web development tools and technologies:
+## This project uses several modern web development tools and technologies:
 
-Core Technologies:
+# Core Technologies:
 
 React 18.3.1 - Frontend JavaScript library
 TypeScript - Static typing for JavaScript
